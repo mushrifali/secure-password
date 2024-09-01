@@ -1,6 +1,8 @@
 # SecurePassword
 Making Password safer for all.
 
+Encrypt And Decrypt Password in Angular Using CryptoJS in Angular 18
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
 # Features
