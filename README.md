@@ -1,6 +1,11 @@
 # SecurePassword
+Making Password safer for all.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
+
+# Features
+It works to Encrypt passwords.
+It works to Decrypt passwords.
 
 ## Development server
 
